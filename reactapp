@@ -1,3 +1,0 @@
-npx create-react-app medical-inventory
-cd medical-inventory
-npm install lucide-react
